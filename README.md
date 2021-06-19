@@ -1,1 +1,2 @@
-# Re:Coder 모바일 페이지
+# Re:Coder Mobile Page hosting
+# Re:Coderモバイルページのホスティング
