@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/recoder-mobile-hosting/static/js/main.dae6d4a9.chunk.js",
-    "main.js.map": "/recoder-mobile-hosting/static/js/main.dae6d4a9.chunk.js.map",
+    "main.js": "/recoder-mobile-hosting/static/js/main.aedcda5c.chunk.js",
+    "main.js.map": "/recoder-mobile-hosting/static/js/main.aedcda5c.chunk.js.map",
     "runtime-main.js": "/recoder-mobile-hosting/static/js/runtime-main.662e9aad.js",
     "runtime-main.js.map": "/recoder-mobile-hosting/static/js/runtime-main.662e9aad.js.map",
-    "static/js/2.6eb47844.chunk.js": "/recoder-mobile-hosting/static/js/2.6eb47844.chunk.js",
-    "static/js/2.6eb47844.chunk.js.map": "/recoder-mobile-hosting/static/js/2.6eb47844.chunk.js.map",
+    "static/js/2.dea806d0.chunk.js": "/recoder-mobile-hosting/static/js/2.dea806d0.chunk.js",
+    "static/js/2.dea806d0.chunk.js.map": "/recoder-mobile-hosting/static/js/2.dea806d0.chunk.js.map",
     "index.html": "/recoder-mobile-hosting/index.html",
-    "static/js/2.6eb47844.chunk.js.LICENSE.txt": "/recoder-mobile-hosting/static/js/2.6eb47844.chunk.js.LICENSE.txt"
+    "static/js/2.dea806d0.chunk.js.LICENSE.txt": "/recoder-mobile-hosting/static/js/2.dea806d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.662e9aad.js",
-    "static/js/2.6eb47844.chunk.js",
-    "static/js/main.dae6d4a9.chunk.js"
+    "static/js/2.dea806d0.chunk.js",
+    "static/js/main.aedcda5c.chunk.js"
   ]
 }
