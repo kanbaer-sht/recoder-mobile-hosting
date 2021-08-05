@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/recoder-mobile-hosting/static/js/main.6d3bebe2.chunk.js",
-    "main.js.map": "/recoder-mobile-hosting/static/js/main.6d3bebe2.chunk.js.map",
+    "main.js": "/recoder-mobile-hosting/static/js/main.37160b18.chunk.js",
+    "main.js.map": "/recoder-mobile-hosting/static/js/main.37160b18.chunk.js.map",
     "runtime-main.js": "/recoder-mobile-hosting/static/js/runtime-main.662e9aad.js",
     "runtime-main.js.map": "/recoder-mobile-hosting/static/js/runtime-main.662e9aad.js.map",
     "static/js/2.dea806d0.chunk.js": "/recoder-mobile-hosting/static/js/2.dea806d0.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.662e9aad.js",
     "static/js/2.dea806d0.chunk.js",
-    "static/js/main.6d3bebe2.chunk.js"
+    "static/js/main.37160b18.chunk.js"
   ]
 }
